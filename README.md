@@ -32,7 +32,7 @@ Based on the Power BI analysis:
 4.  **Operational Risk**: The **Donut Chart** confirms that 31% of total actions are Alarms, which directly correlates with the peaks shown in the **Temperature Trend** line chart.
 
 ## ⚙️ How to Run
-1.  Run the `mes_simulation.py` script to generate the latest `MES_Pro_Production_Data.csv`.
+1.  Run the `mes_simulation.ipynb` script to generate the latest `MES_Pro_Production_Data.csv`.
 2.  Open the `MES_project2.pbix` file in Power BI Desktop.
 3.  Refresh the data source to visualize the updated manufacturing metrics.
 
