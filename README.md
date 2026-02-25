@@ -21,6 +21,7 @@ The goal is to monitor a production line where temperature excursions directly i
 | **Machine_State** | Operational status: `Running` or `Stopped` (automatic interlock). |
 
 ## 📈 Dashboard Insights & Conclusions
+![Dashboard](dasboard/bi_dashboard.png)
 Based on the Power BI analysis:
 
 1.  **Thermal Stability**: The line shows a high sensitivity to temperature. The **Max Temperature recorded (33.48°C)** triggered immediate system stops to prevent batch contamination.
